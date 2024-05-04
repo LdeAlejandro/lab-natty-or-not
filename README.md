@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para obter um roteiro das boa practicas na area de QA, com 
 ## 🚀 Resultados
 O slide apresenta um conteúdo envolvente e visualmente atrativo, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[Excelência em QA: Melhores Práticas](https://gamma.app/docs/Introducao-ao-QA-Testing-yn914igaqiayvhg?mode=doc)
+[Excelência em QA: Melhores Práticas]([https://gamma.app/docs/Introducao-ao-QA-Testing-yn914igaqiayvhg?mode=doc](https://excelencia-em-qa-melhore-o1qiqow.gamma.site/))
 
 ## 💭 Reflexão
 Criar esta aprensentação foi bastante interesante ja uso IA constatemente mas agora sei que da para fazer conteudo de forma simples y rapida.
