@@ -5,7 +5,7 @@ Descubra como implementar as melhores práticas em QA Testing para garantir a qu
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Gamma Ap](https://gamma.app/)** para criar a arte visual da  presentação;
+- IA Generativa **[Gamma App](https://gamma.app/)** para criar a arte visual da  presentação;
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
